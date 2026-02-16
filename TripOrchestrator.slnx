@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="infrastructure/src/Infrastructure/Infrastructure.csproj" />
+  <Project Path="src/TripFlow.CarService/TripFlow.CarService.csproj" />
+  <Project Path="src/TripFlow.FlightService/TripFlow.FlightService.csproj" />
+  <Project Path="src/TripFlow.HotelService/TripFlow.HotelService.csproj" />
+  <Project Path="src/TripFlow.Shared/TripFlow.Shared.csproj" />
+</Solution>
